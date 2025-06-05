@@ -54,11 +54,3 @@ This project analyzes the **Amazon-Sales Report** dataset using Power BI to desi
 - Microsoft PowerPoint
 
 ---
-
-## 📥 How to Use
-1. Clone this repository
-2. Open `Amazon_Sales_Dashboard.pbix` in Power BI Desktop
-3. Explore filters, visuals, and trends interactively
-4. Refer to the `Amazon_Sales_Dashboard_Summary.pptx` for summarized insights
-
----
